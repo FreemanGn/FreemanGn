@@ -55,5 +55,4 @@
     <p>
         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=freemangn&show_icons=true&theme=synthwave&title_color=3182bd&text_color=ffffff&bg_color=9ecae1&locale=en&layout=compact" alt="freemangn" />
     </p>
-    <br/>
-    
+  

@@ -37,8 +37,7 @@
 
 
 <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank"> 
-    <img alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-">
+    <img alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   </a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> 
     <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">

@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm < Mamoudou Diallo />!  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Goldman&duration=3000&pause=1000&width=435&lines=Welcome+to+my+GitHub+Profile+!;I+'m+Computer+Science+Student" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Goldman&duration=3000&pause=200&width=435&lines=Welcome+to+my+GitHub+Profile+!;I+'m+Computer+Science+Student" alt="Typing SVG" /></a>
 
 
 <div align="center">
